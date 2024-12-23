@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2"
+  },
+  "name": "wp-lab",
+  "version": "1.0.0",
+  "main": "new.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "PORTFOLIO PAGE CONNECTED TO MONGO DB # Portfolio Page This is a simple portfolio webpage that dynamically fetches data from a backend API and displays it in an organized format. The page includes sections for Summary, Skills, Experience, Education, Languages, and a Profile Image."
+}
